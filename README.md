@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Bhavya Singh 
+Author - Bhavya Singh (HITS CHENNAI)
